@@ -19,11 +19,11 @@
      borderopacity="1.0"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
+     inkscape:pagecheckerboard="true"
      inkscape:document-units="pt"
      showgrid="false"
      inkscape:zoom="1.1647875"
-     inkscape:cx="414.66792"
+     inkscape:cx="269.57707"
      inkscape:cy="308.63999"
      inkscape:window-width="1920"
      inkscape:window-height="1114"
@@ -3832,25 +3832,6 @@
   </defs>
   <g
      id="surface1">
-    <g
-       clip-path="url(#clip1)"
-       clip-rule="nonzero"
-       id="g1458">
-      <rect
-         x="0"
-         y="0"
-         width="630.95996"
-         height="462.95999"
-         style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"
-         id="rect1454" />
-      <rect
-         x="0"
-         y="0"
-         width="630.95996"
-         height="462.95999"
-         style="fill:rgb(94.898987%,94.898987%,94.898987%);fill-opacity:1;stroke:none;"
-         id="rect1456" />
-    </g>
     <g
        clip-path="url(#clip3)"
        clip-rule="nonzero"
